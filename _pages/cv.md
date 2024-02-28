@@ -29,24 +29,3 @@ Project partecipation
 * "RESILIENCE - Extreme Storms in the Italian North-East: frequency, impacts and projected changes" project, Progetto di Eccellenza CARIPARO 2021, PI Marco Borga
 * "INADEF - INnovative eArly warning system for DEbris Flow events based on nowcasting and phenomenology" project - Interreg V–A Italia-Austria 2014-2020
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
