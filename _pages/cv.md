@@ -9,13 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-# Education
+## Education
 ======
 * Ph.D in Land, Environment, Resources, and Health, 2018
 * M.S. in Civil Engineering, University of Padova, 2014
 * B.S. in Civil Engineering, University of Padova, 2011
 
-# Work experience
+## Work experience
 ======
 * March 2023 - present: Assistant professor (RtdA) 
   * Dept. of Land, Environment, Agriculture and Forestry - University of Padova
@@ -23,7 +23,7 @@ redirect_from:
 * September 2018 - March 2023: Postdoctoral fellowship
   * Dept. of Land, Environment, Agriculture and Forestry - University of Padova
   
-# Project partecipation
+## Project partecipation
 ======
 * "RETURN - multi-Risk sciEnce for resilienT commUnities undeR a changiNg climate" project, MUR-PNRR Extended Partnership PE3 on Natural Risks Next-Generation EU
 * "RESILIENCE - Extreme Storms in the Italian North-East: frequency, impacts and projected changes" project, Progetto di Eccellenza CARIPARO 2021, PI Marco Borga

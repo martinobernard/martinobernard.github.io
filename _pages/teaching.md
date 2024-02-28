@@ -7,12 +7,12 @@ author_profile: true
 
 {% include base_path %}
 
-# Teaching
+## Teaching
 ======
 * A.A. 2023/24
   * <i>Climate changes and hydrogeological hazard mitigation</i>, first cycle degree in <i>Land and Lanscape Restoration and Enhancement</i>, School of Agricultural Sciences and Veterinary Medicine, University of Padua. Teaching (24 h)
 
-# Teaching assistance and tutoring
+## Teaching assistance and tutoring
 ======
 * A.A. 2022/23
   * <i>Climate changes and hydrogeological hazard mitigation</i>, first cycle degree in <i>Land and Lanscape Restoration and Enhancement</i>, School of Agricultural Sciences and Veterinary Medicine, University of Padua. Didattica integrativa (15 h)
@@ -27,7 +27,7 @@ author_profile: true
 * A.A. 2017/18
   * <i>Elementi di Costruzioni per il territorio e l'ambiente</i>, first cycle degree in <i>Land and Lanscape Restoration and Enhancement</i>, School of Agricultural Sciences and Veterinary Medicine, University of Padua. Didattica integrativa (15 h)
 
-# Thesis supervision
+## Thesis supervision
 ======
 * Supervision of 1 Master’s degree thesis in Forestry and Environmental Science, University of Padua
   * Pallaoro R. (2023). Analisi del legname in alveo e modellazione idrologica nel bacino del Rio Rì (TN)

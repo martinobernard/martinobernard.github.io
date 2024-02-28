@@ -12,7 +12,7 @@ author_profile: true
 
 {% include base_path %}
 
-# Published
+## Published
 ======
 * **Bernard, M.**, Barbini, M., Boreggio, M., Biasuzzi, K., Gregoretti, C. (2024). Deposition areas: An effective solution for the reduction of the sediment volume transported by stony debris flows on the high-sloping reach of channels incising fans and debris cones. Earth Surface Processes and Landforms. [<a href="https://doi.org/10.1002/esp.5727" target="_blank">DOI</a>]
 * Qiao, Z., Li, T., Simoni, A., Gregoretti, C., **Bernard, M.**, Wu, S., Shen, W., Berti, M. (2023). Numerical modelling of an Alpine debris flow by considering bed entrainment. Frontiers in Earth Science. [<a href="https://doi.org/10.3389/feart.2022.1059525" target="_blank">DOI</a>]
@@ -28,10 +28,10 @@ author_profile: true
 * Gregoretti C., Degetto M., Bernard M., Crucil, G., Pimazzoni A., De Vido G., Berti M., Simoni A. Lanzoni S. Runoff of small rocky headwater catchments: Field 	observations and hydrological modeling. Water Resources Research, 52(10) 8138-8158, [<a href="https://doi.org/10.1002/2016WR018675" target="_blank">DOI</a>]
 * Degetto M, Gregoretti, C., Bernard M. Comparative analysis of the differences between using LiDAR and contour-based DEMs for hydrological modeling of runoff generating debris flows in the Dolomites. Frontiers in Earth Sciences 3:21. [<a href="https://doi.org/10.3389/feart.2015.00021" target="_blank">DOI</a>]
 
-# Submitted
+## Submitted
 ======
 
-# In preparation
+## In preparation
 ======
 
 
