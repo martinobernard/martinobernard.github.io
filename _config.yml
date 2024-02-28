@@ -37,7 +37,6 @@ author:
   orcid            : "https://orcid.org/0000-0001-8173-8805"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : "https://www.researchgate.net/profile/Martino-Bernard"
-  scopus           : "https://www.scopus.com/authid/detail.uri?authorId=57191594030"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
@@ -280,7 +279,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Rome # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
