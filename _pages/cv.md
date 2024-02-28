@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Land, Environment, Resources, Health, 2018
+* Ph.D in Land, Environment, Resources, and Health, 2018
 * M.S. in Civil Engineering, University of Padova, 2014
 * B.S. in Civil Engineering, University of Padova, 2011
 
