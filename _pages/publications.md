@@ -11,6 +11,24 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+In preparation
+======
+
+Submitted
+======
+
+Published
+======
+* ****Bernard, M.****, Barbini, M., Boreggio, M., Biasuzzi, K., Gregoretti, C. (2024). Deposition areas: An effective solution for the reduction of the sediment volume transported by stony debris flows on the high-sloping reach of channels incising fans and debris cones. Earth Surface Processes and Landforms. doi: 10.1002/esp.5727
+* Qiao, Z., Li, T., Simoni, A., Gregoretti, C., **Bernard, M.**, Wu, S., Shen, W., Berti, M. (2023). Numerical modelling of an Alpine debris flow by considering bed entrainment. Frontiers in Earth Science. doi: 10.3389/feart.2022.1059525
+* Boreggio, M., **Bernard, M.**, Gregoretti, C. (2022). Does the topographic data source truly influence the routing modeling of debris flows in a torrent catchment? Earth Surface Processes and Landforms. https://doi.org/10.1002/esp.5366
+* **Bernard, M.** & Gregoretti, C. (2021). The Use of Rain Gauge Measurements and Radar Data for the Model‐Based Prediction of Runoff‐Generated Debris‐Flow Occurrence in Early Warning Systems. Water Resources Research. https://doi.org/10.1029/2020WR027893
+* Simoni, A., **Bernard, M.**, Berti, M., Boreggio, M., Lanzoni, S., Stancanelli, L., & Gregoretti, C. (2020). Runoff‐generated debris flows: observation of initiation conditions and erosion‐deposition dynamics along the channel at Cancia (eastern Italian Alps). Earth Surface Processes and Landforms. https://doi.org/10.1002/esp.4981
+* Berti, M., **Bernard, M.**, Simoni, A., & Gregoretti, C. (2020). Physical interpretation of rainfall thresholds for runoff-generated debris flows. Journal of Geophysical Research: Earth Surface. https://doi.org/10.1029/2019JF005513
+* **Bernard, M.**, Underwood, S. J., Berti, M., Simoni, A., Gregoretti, C. (2020). Observations of the atmospheric electric field preceding intense rainfall events in the Dolomite Alps near Cortina d’Ampezzo, Italy. Meteorology and Atmospheric Physics. https://doi.org/10.1007/s00703-019-00677-6
+* **Bernard, M.**, Boreggio, M., Degetto, M., Gregoretti, C. (2019). Model-based approach for design and performance evaluation of works controlling stony debris flows with an application to a case study at Rovina di Cancia (Venetian Dolomites, Northeast Italy). Science of The Total Environment, 688, 1373–1388. https://doi.org/10.1016/j.scitotenv.2019.05.468
+* Gregoretti, C., Stancanelli, L. M., **Bernard, M.**, Boreggio, M., Degetto, M., Lanzoni, S. (2019). Relevance of erosion processes when modelling in-channel gravel debris flows for efficient hazard assessment. Journal of Hydrology, 568, 575–591. https://doi.org/10.1016/j.jhydrol.2018.10.001
+* Boreggio, M., **Bernard, M.**, Gregoretti, C. (2018). Evaluating the Differences of Gridding Techniques for Digital Elevation Models Generation and Their Influence on the Modeling of Stony Debris Flows Routing: A Case Study From Rovina di Cancia Basin (North-Eastern Italian Alps). Frontiers in Earth Science, 6. https://doi.org/10.3389/feart.2018.00089
+* Gregoretti, C., Degetto, M., **Bernard, M.**, Boreggio, M. (2018). The Debris Flow Occurred at Ru Secco Creek, Venetian Dolomites, on 4 August 2015: Analysis of the Phenomenon, Its Characteristics and Reproduction by Models. Frontiers in Earth Science, 6(80), 80. https://doi.org/10.3389/feart.2018.00080
+* Gregoretti C., Degetto M., Bernard M., Crucil, G., Pimazzoni A., De Vido G., Berti M., Simoni A. Lanzoni S. Runoff of small rocky headwater catchments: Field 	observations and hydrological modeling. Water Resources Research, 52(10) 8138-8158, doi:10.1002/2016WR018675
+* Degetto M, Gregoretti, C., Bernard M. Comparative analysis of the differences between using LiDAR and contour-based DEMs for hydrological modeling of runoff generating debris flows in the Dolomites. Frontiers in Earth Sciences 3:21. doi: 10.3389/feart.2015.00021.
