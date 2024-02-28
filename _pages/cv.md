@@ -11,35 +11,23 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Land, Environment, Resources, Health, 2018
+* M.S. in Civil Engineering, University of Padova, 2014
+* B.S. in Civil Engineering, University of Padova, 2011
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* March 2023 - present: Assistant professor (RtdA) 
+  * Dept. of Land, Environment, Agriculture and Forestry - University of Padova
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* September 2018 - March 2023: Postdoctoral fellowship
+  * Dept. of Land, Environment, Agriculture and Forestry - University of Padova
   
-Skills
+Project partecipation
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* "RETURN - multi-Risk sciEnce for resilienT commUnities undeR a changiNg climate" project, MUR-PNRR Extended Partnership PE3 on Natural Risks Next-Generation EU
+* "RESILIENCE - Extreme Storms in the Italian North-East: frequency, impacts and projected changes" project, Progetto di Eccellenza CARIPARO 2021, PI Marco Borga
+* "INADEF - INnovative eArly warning system for DEbris Flow events based on nowcasting and phenomenology" project - Interreg V–A Italia-Austria 2014-2020
 
 Publications
 ======
