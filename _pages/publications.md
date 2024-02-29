@@ -28,10 +28,10 @@ author_profile: true
 * Degetto M, Gregoretti, C., Bernard M. Comparative analysis of the differences between using LiDAR and contour-based DEMs for hydrological modeling of runoff generating debris flows in the Dolomites. Frontiers in Earth Sciences 3:21. [<a href="https://doi.org/10.3389/feart.2015.00021" target="_blank">DOI</a>]
 
 ## Submitted
-* Bernard, M., Barbini, M., Berti, M., Simoni, A., Boreggio, M., Gregoretti, C. (Under review). Rainfall-runoff modelling in rocky headwater basins for the prediction of debris-flow occurrence.
-* Barbini, M., Bernard, M., Boreggio, M., D’Agostino, V., Schiavo, M., Gregoretti, C. (Under review). An alternative approach for the sediment control of in-channel stony debris flows with an application to the case study of the Ru Secco Creek (Venetian Dolomites, Northeast Italy).
-* Francis, O., Tang, H., Bernard, M. (Under review). Physically based Probabilistic Rainfall Intensity-Duration (ID) Thresholds for Runoff-Generated Debris Flows. 
-* Schiavo, M., Gregoretti, C., Barbini, M., Boreggio, M., Bernard, M. (Under review). Probabilistic identification of debris-flow paths in fans and cones.
+* **Bernard, M.**, Barbini, M., Berti, M., Simoni, A., Boreggio, M., Gregoretti, C. (Under review). Rainfall-runoff modelling in rocky headwater basins for the prediction of debris-flow occurrence.
+* Barbini, M., **Bernard, M.**, Boreggio, M., D’Agostino, V., Schiavo, M., Gregoretti, C. (Under review). An alternative approach for the sediment control of in-channel stony debris flows with an application to the case study of the Ru Secco Creek (Venetian Dolomites, Northeast Italy).
+* Francis, O., Tang, H., **Bernard, M.** (Under review). Physically based Probabilistic Rainfall Intensity-Duration (ID) Thresholds for Runoff-Generated Debris Flows. 
+* Schiavo, M., Gregoretti, C., Barbini, M., Boreggio, M., **Bernard, M.** (Under review). Probabilistic identification of debris-flow paths in fans and cones.
 
 ## In preparation
 
