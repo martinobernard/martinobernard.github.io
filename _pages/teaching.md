@@ -8,6 +8,10 @@ author_profile: true
 {% include base_path %}
 
 ## Teaching
+* A.A. 2024/25
+  * <i>Climate changes and hydrogeological hazard mitigation</i>, first cycle degree in <i>Land and Lanscape Restoration and Enhancement</i>, School of Agricultural Sciences and Veterinary Medicine, University of Padua. Teaching (32 h)
+  * <i>Laboratorio di CAD: AutoCAD </i>, first cycle degree in <i>Land and Lanscape Restoration and Enhancement</i>, School of Agricultural Sciences and Veterinary Medicine, University of Padua. Teaching (32 h)
+
 * A.A. 2023/24
   * <i>Climate changes and hydrogeological hazard mitigation</i>, first cycle degree in <i>Land and Lanscape Restoration and Enhancement</i>, School of Agricultural Sciences and Veterinary Medicine, University of Padua. Teaching (24 h)
 

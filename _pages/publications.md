@@ -13,6 +13,7 @@ author_profile: true
 {% include base_path %}
 
 ## Published
+* Schiavo, M., Gregoretti, C., Barbini, M., Boreggio, M., **Bernard, M.** (2024). Probabilistic Identification of Debris-Flow Pathways in Mountain Fans Within a Stochastic Framework. Journal of Geophysical Research: Earth Surface. [<a href="https://doi.org/10.1029/2024JF007946" target="_blank">DOI</a>]
 * Barbini, M., **Bernard, M.**, Boreggio, M., D’Agostino, V., Schiavo, M., Gregoretti, C. (2024). An alternative approach for the sediment control of in-channel stony debris flows with an application to the case study of the Ru Secco Creek (Venetian Dolomites, Northeast Italy). Frontiers in Earth Science. [<a href="https://doi.org/10.3389/feart.2024.1340561" target="_blank">DOI</a>]
 * **Bernard, M.**, Barbini, M., Boreggio, M., Biasuzzi, K., Gregoretti, C. (2024). Deposition areas: An effective solution for the reduction of the sediment volume transported by stony debris flows on the high-sloping reach of channels incising fans and debris cones. Earth Surface Processes and Landforms. [<a href="https://doi.org/10.1002/esp.5727" target="_blank">DOI</a>]
 * Qiao, Z., Li, T., Simoni, A., Gregoretti, C., **Bernard, M.**, Wu, S., Shen, W., Berti, M. (2023). Numerical modelling of an Alpine debris flow by considering bed entrainment. Frontiers in Earth Science. [<a href="https://doi.org/10.3389/feart.2022.1059525" target="_blank">DOI</a>]
@@ -29,9 +30,9 @@ author_profile: true
 * Degetto, M., Gregoretti, C., **Bernard, M.** Comparative analysis of the differences between using LiDAR and contour-based DEMs for hydrological modeling of runoff generating debris flows in the Dolomites. Frontiers in Earth Sciences 3:21. [<a href="https://doi.org/10.3389/feart.2015.00021" target="_blank">DOI</a>]
 
 ## Submitted
-* **Bernard, M.**, Barbini, M., Berti, M., Simoni, A., Boreggio, M., Gregoretti, C. (Under review). Rainfall-runoff modelling in rocky headwater basins for the prediction of debris-flow occurrence.
+* **Bernard, M.**, Barbini, M., Berti, M., Simoni, A., Boreggio, M., Gregoretti, C. (Accepted). Rainfall-runoff modelling in rocky headwater basins for the prediction of debris-flow occurrence.
+* Boreggio, M., Barbini, M., **Bernard, M.**, Degetto, M., Gregoretti, C. (Accepted). Proposed solution for stony debris-flow control works in two headwater basins in presence of morphological changes. 
 * Francis, O., Tang, H., **Bernard, M.** (Under review). Physically based Probabilistic Rainfall Intensity-Duration (ID) Thresholds for Runoff-Generated Debris Flows. 
-* Schiavo, M., Gregoretti, C., Barbini, M., Boreggio, M., **Bernard, M.** (Under review). Probabilistic identification of debris-flow paths in fans and cones.
 
 
 
