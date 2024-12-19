@@ -13,6 +13,7 @@ author_profile: true
 {% include base_path %}
 
 ## Published
+Boreggio, M., Barbini, M., **Bernard, M., Degetto, M., **Gregoretti, C. (2024). Proposed Solution for Stony Debris-Flow Control Works in Two Headwater Basins with Morphological Changes. GeoHazards. [<a href="https://doi.org/10.3390/geohazards5040064" target="_blank">DOI</a>]
 * Schiavo, M., Gregoretti, C., Barbini, M., Boreggio, M., **Bernard, M.** (2024). Probabilistic Identification of Debris-Flow Pathways in Mountain Fans Within a Stochastic Framework. Journal of Geophysical Research: Earth Surface. [<a href="https://doi.org/10.1029/2024JF007946" target="_blank">DOI</a>]
 * Barbini, M., **Bernard, M.**, Boreggio, M., D’Agostino, V., Schiavo, M., Gregoretti, C. (2024). An alternative approach for the sediment control of in-channel stony debris flows with an application to the case study of the Ru Secco Creek (Venetian Dolomites, Northeast Italy). Frontiers in Earth Science. [<a href="https://doi.org/10.3389/feart.2024.1340561" target="_blank">DOI</a>]
 * **Bernard, M.**, Barbini, M., Boreggio, M., Biasuzzi, K., Gregoretti, C. (2024). Deposition areas: An effective solution for the reduction of the sediment volume transported by stony debris flows on the high-sloping reach of channels incising fans and debris cones. Earth Surface Processes and Landforms. [<a href="https://doi.org/10.1002/esp.5727" target="_blank">DOI</a>]
@@ -31,7 +32,6 @@ author_profile: true
 
 ## Submitted
 * **Bernard, M.**, Barbini, M., Berti, M., Simoni, A., Boreggio, M., Gregoretti, C. (Accepted). Rainfall-runoff modelling in rocky headwater basins for the prediction of debris-flow occurrence.
-* Boreggio, M., Barbini, M., **Bernard, M.**, Degetto, M., Gregoretti, C. (Accepted). Proposed solution for stony debris-flow control works in two headwater basins in presence of morphological changes. 
 * Francis, O., Tang, H., **Bernard, M.** (Under review). Physically based Probabilistic Rainfall Intensity-Duration (ID) Thresholds for Runoff-Generated Debris Flows. 
 
 
